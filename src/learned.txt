@@ -1,0 +1,2 @@
+i learnd that sqlx is proababy good for sql(postgres) and uses sql strings (like in node)
+i learnd that sqlx is proababy good for sql(postgres) and uses sql strings (like in node)

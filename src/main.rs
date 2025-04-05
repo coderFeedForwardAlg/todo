@@ -2,7 +2,6 @@ use std::io;
 use std::fs::File;
 use std::io::prelude::*;
 
-
 fn main() -> std::io::Result<()> {
        let mut conn = File::open("workData.txt")?;
         let mut content = String::new();
